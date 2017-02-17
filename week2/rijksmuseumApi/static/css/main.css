@@ -37,6 +37,10 @@ body > section{
 	width: 100%;
 }
 
+.painting section {
+    border: 1px solid black;
+}2
+
 nav {
 	width: 100%;
 	background-color: #ff5858;
